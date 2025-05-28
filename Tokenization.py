@@ -1,6 +1,7 @@
 import nltk
 from nltk.tokenize import sent_tokenize
 
+
 corpus = """My name is John. I live in New York City. I love programming in Python.
 I also enjoy hiking and photography. The weather here is usually great, but it's get quite cold in winter."""
 
